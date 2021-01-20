@@ -1,6 +1,6 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
-
+GPG: 4AEE18F83AFDEB23
 Contact: mailto:security@myetherwallet.com
 Encryption: https://raw.githubusercontent.com/MyEtherWallet/MyEtherWallet/master/MEW-PUP-KEY-GPG
 Acknowledgments: https://www.myetherwallet.com/security-policy
